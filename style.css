@@ -62,6 +62,7 @@ body{
     color: aliceblue;
     margin-right: -50px;
     padding-bottom: 5%;  
+    
    
 }
 
@@ -74,6 +75,8 @@ body{
 #fotoPerfil{
     width: 300px;
     height: 300px;
+    
+    margin-left: -10%;
 }
 
 #rodapeContainer{
