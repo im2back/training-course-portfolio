@@ -48,20 +48,21 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    gap: 50px;      
+    gap: 50px;     
+    
 }
 
 #tamanhoSectiontext{
     width: 750px;
+    height: 300px;
     margin-right: 250px;
     text-align: justify;
     font-size: 20px;
     text-indent: 70px;
     color: aliceblue;
     margin-right: -50px;
-    padding-bottom: 5%;
-    
-    
+    padding-bottom: 5%;  
+   
 }
 
 #tituloSobremim{
